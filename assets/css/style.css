@@ -493,6 +493,7 @@ a.hoverline:hover {
   text-align: center;
   vertical-align: middle;
   display: table-cell;
+  margin-right: 5px;
 }
 
 .card.large .card-content p {
@@ -694,3 +695,4 @@ small {
 #myTwitter {
   background-color: whitesmoke;
 }
+
